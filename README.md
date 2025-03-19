@@ -1,7 +1,8 @@
 # RitikaPractice
 hello world ;
 
-ritika loves
+ritika 
+loves
 bharathu
 
 illa ivvu
